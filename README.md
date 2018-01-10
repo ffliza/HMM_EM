@@ -1,1 +1,1 @@
-# HMM_EM
+READ ME 
